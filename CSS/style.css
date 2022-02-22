@@ -1,0 +1,25 @@
+body {
+  background-image: linear-gradient(pink,aquamarine);
+}
+
+.main-konten {
+  background-color: #f1f3ff;
+}
+
+.carousel {
+  padding: 10px 0;
+}
+
+.navbar {
+  background-color: #f1f3ff;
+}
+
+.main-konten .navbar a.nav-link {
+  color: black;
+}
+
+.jumbotron {
+  background-color: #f1f3ff;
+}
+
+
